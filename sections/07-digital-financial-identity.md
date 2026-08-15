@@ -12,11 +12,15 @@ A customer could hold a **Financial Identity Credential** with verifiable attrib
 
 Aligned with W3C Verifiable Credentials concepts. [[7]](99-references.md#7)
 
-![Figure 8 — Data never on chain (raw PII)](../assets/fig-08-onchain-offchain.svg)
+<p align="center">
+  <img src="../assets/fig-08-onchain-offchain.svg" alt="Figure 8 — Data never on chain (raw PII)" width="100%">
+</p>
 
 *Figure 8 — Data never on chain (raw PII)*
 
 
-![Figure 9 — Financial Identity Credential](../assets/fig-09-financial-identity.svg)
+<p align="center">
+  <img src="../assets/fig-09-financial-identity.svg" alt="Figure 9 — Financial Identity Credential" width="100%">
+</p>
 
 *Figure 9 — Financial Identity Credential*

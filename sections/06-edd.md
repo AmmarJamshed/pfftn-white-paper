@@ -11,6 +11,8 @@ EDD should **not** mean “more blocks.”
 * Lower-risk: Identity → KYC → CDD → proportionate controls → monitoring
 * Higher-risk: … → risk trigger → EDD → more evidence → enhanced approval → continuous monitoring
 
-![Figure 7 — EDD decision tree](../assets/fig-07-edd-tree.svg)
+<p align="center">
+  <img src="../assets/fig-07-edd-tree.svg" alt="Figure 7 — EDD decision tree" width="100%">
+</p>
 
 *Figure 7 — EDD decision tree*

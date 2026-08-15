@@ -18,6 +18,8 @@
 Pakistan has already built several pieces of the puzzle. The conceptually missing piece is a broader **federated trust layer**.
 {% endhint %}
 
-![Figure 3 — Building blocks and the missing federated trust layer](../assets/fig-03-building-blocks.svg)
+<p align="center">
+  <img src="../assets/fig-03-building-blocks.svg" alt="Figure 3 — Building blocks and the missing federated trust layer" width="100%">
+</p>
 
 *Figure 3 — Building blocks and the missing federated trust layer*

@@ -10,6 +10,8 @@
 4. **Phase 4** — Raast P2M integration (trust link, not rail replacement)
 5. **Phase 5** — National federated financial trust network
 
-![Figure 20 — Five-phase roadmap](../assets/fig-20-roadmap.svg)
+<p align="center">
+  <img src="../assets/fig-20-roadmap.svg" alt="Figure 20 — Five-phase roadmap" width="100%">
+</p>
 
 *Figure 20 — Five-phase roadmap*

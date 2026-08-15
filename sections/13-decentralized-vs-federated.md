@@ -2,7 +2,9 @@
 
 Pakistan should likely pursue a **regulated federated model**, not permissionless DeFi, for core banking trust.
 
-![Figure 15 — Traditional vs federated vs DeFi](../assets/fig-15-trust-models.svg)
+<p align="center">
+  <img src="../assets/fig-15-trust-models.svg" alt="Figure 15 — Traditional vs federated vs DeFi" width="100%">
+</p>
 
 *Figure 15 — Traditional vs federated vs DeFi*
 

@@ -1,12 +1,12 @@
-<svg viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="2250" height="1150" viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" role="img">
   <rect width="900" height="460" fill="#F8FAFC" rx="12"/>
   <text x="450" y="30" text-anchor="middle" font-family="Fraunces,Georgia,serif" font-size="18" fill="#0B1F3A" font-weight="700">EDD Decision Tree</text>
-  <g font-family="DM Sans,sans-serif" font-size="11" text-anchor="middle">
+  <g font-family="DM Sans,sans-serif" font-size="17" text-anchor="middle">
     <rect x="350" y="50" width="200" height="36" rx="8" fill="#0B1F3A"/><text x="450" y="73" fill="#fff" font-weight="700">Identity → KYC → CDD</text>
-    <text x="450" y="105" fill="#64748B" font-size="16">▼</text>
+    <text x="450" y="105" fill="#64748B" font-size="18">▼</text>
     <rect x="350" y="115" width="200" height="36" rx="8" fill="#5B4B8A"/><text x="450" y="138" fill="#fff" font-weight="700">Risk Assessment</text>
-    <text x="250" y="175" fill="#059669" font-size="14">Low risk</text>
-    <text x="650" y="175" fill="#DC2626" font-size="14">Higher risk</text>
+    <text x="250" y="175" fill="#059669" font-size="17">Low risk</text>
+    <text x="650" y="175" fill="#DC2626" font-size="17">Higher risk</text>
     <!-- left -->
     <path d="M380 151 L200 200" stroke="#059669" stroke-width="2" fill="none"/>
     <rect x="100" y="200" width="200" height="50" rx="8" fill="#059669"/><text x="200" y="230" fill="#fff" font-weight="700">Standard controls</text>
@@ -19,5 +19,5 @@
     <rect x="600" y="318" width="240" height="28" rx="6" fill="#B91C1C"/><text x="720" y="337" fill="#fff">Enhanced approval</text>
     <rect x="600" y="356" width="240" height="28" rx="6" fill="#7F1D1D"/><text x="720" y="375" fill="#fff">Continuous monitoring</text>
   </g>
-  <text x="450" y="430" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="12" fill="#64748B">EDD ≠ more blockchain blocks. EDD = more evidence + stronger controls.</text>
+  <text x="450" y="430" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="17" fill="#64748B">EDD ≠ more blockchain blocks. EDD = more evidence + stronger controls.</text>
 </svg>

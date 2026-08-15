@@ -8,6 +8,8 @@ Possible later extensions: digital lending, SME financing, trade finance, remitt
 
 Each would need separate policy, legal and technical work.
 
-![Figure 21 — Future ecosystem map](../assets/fig-21-future-map.svg)
+<p align="center">
+  <img src="../assets/fig-21-future-map.svg" alt="Figure 21 — Future ecosystem map" width="100%">
+</p>
 
 *Figure 21 — Future ecosystem map*

@@ -10,6 +10,8 @@ A reusable merchant trust profile could include attestations about legal identit
 
 **Not every institution receives every field.** Access would be permissioned, consent-driven, and subject to law.
 
-![Figure 10 — Merchant Financial Identity (MFI)](../assets/fig-10-merchant-identity.svg)
+<p align="center">
+  <img src="../assets/fig-10-merchant-identity.svg" alt="Figure 10 — Merchant Financial Identity (MFI)" width="100%">
+</p>
 
 *Figure 10 — Merchant Financial Identity (MFI)*

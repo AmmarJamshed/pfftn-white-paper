@@ -1,9 +1,9 @@
-<svg viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="2250" height="900" viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg" role="img">
   <rect width="900" height="360" fill="#0B1F3A" rx="12"/>
-  <text x="450" y="36" text-anchor="middle" fill="#00B4D8" font-family="DM Sans,sans-serif" font-size="14" font-weight="700" letter-spacing="2">DATA NEVER ON CHAIN (raw PII)</text>
+  <text x="450" y="36" text-anchor="middle" fill="#00B4D8" font-family="DM Sans,sans-serif" font-size="17" font-weight="700" letter-spacing="2">DATA NEVER ON CHAIN (raw PII)</text>
   <rect x="30" y="60" width="400" height="270" rx="14" fill="#FEF2F2"/>
-  <text x="230" y="95" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="16" font-weight="700" fill="#B91C1C">OFF-CHAIN</text>
-  <g font-family="DM Sans,sans-serif" font-size="13" fill="#7F1D1D">
+  <text x="230" y="95" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="18" font-weight="700" fill="#B91C1C">OFF-CHAIN</text>
+  <g font-family="DM Sans,sans-serif" font-size="17" fill="#7F1D1D">
     <text x="55" y="130">• CNIC / passport copies</text>
     <text x="55" y="158">• Bank statements</text>
     <text x="55" y="186">• Addresses &amp; phone numbers</text>
@@ -12,8 +12,8 @@
     <text x="55" y="270">• Full KYC dossiers</text>
   </g>
   <rect x="470" y="60" width="400" height="270" rx="14" fill="#ECFDF5"/>
-  <text x="670" y="95" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="16" font-weight="700" fill="#047857">ON-CHAIN</text>
-  <g font-family="DM Sans,sans-serif" font-size="13" fill="#065F46">
+  <text x="670" y="95" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="18" font-weight="700" fill="#047857">ON-CHAIN</text>
+  <g font-family="DM Sans,sans-serif" font-size="17" fill="#065F46">
     <text x="495" y="130">• Cryptographic hashes / proofs</text>
     <text x="495" y="158">• Credential issuer identity</text>
     <text x="495" y="186">• Timestamp &amp; validity</text>

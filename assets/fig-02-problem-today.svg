@@ -1,36 +1,36 @@
-<svg viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="2250" height="1050" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" role="img">
   <rect width="900" height="420" fill="#FFF7ED" rx="12"/>
   <text x="30" y="36" font-family="Fraunces,Georgia,serif" font-size="22" fill="#9A3412" font-weight="700">TODAY: Fragmented Verification</text>
-  <text x="30" y="58" font-family="DM Sans,sans-serif" font-size="12" fill="#C2410C">Red/orange = duplicated effort &amp; friction</text>
+  <text x="30" y="58" font-family="DM Sans,sans-serif" font-size="17" fill="#C2410C">Red/orange = duplicated effort &amp; friction</text>
 
   <!-- Customer side -->
   <rect x="30" y="80" width="400" height="300" rx="14" fill="#fff" stroke="#FDBA74" stroke-width="2"/>
-  <text x="50" y="110" font-family="DM Sans,sans-serif" font-size="14" font-weight="700" fill="#9A3412">CUSTOMER JOURNEY</text>
+  <text x="50" y="110" font-family="DM Sans,sans-serif" font-size="17" font-weight="700" fill="#9A3412">CUSTOMER JOURNEY</text>
   <rect x="50" y="130" width="100" height="40" rx="8" fill="#EA580C"/>
-  <text x="100" y="155" text-anchor="middle" fill="#fff" font-size="12" font-weight="700" font-family="DM Sans,sans-serif">Customer</text>
+  <text x="100" y="155" text-anchor="middle" fill="#fff" font-size="17" font-weight="700" font-family="DM Sans,sans-serif">Customer</text>
   <text x="170" y="155" fill="#EA580C" font-size="18">→</text>
   
-  <g font-family="DM Sans,sans-serif" font-size="11" fill="#7C2D12">
+  <g font-family="DM Sans,sans-serif" font-size="17" fill="#7C2D12">
     <rect x="200" y="120" width="200" height="32" rx="6" fill="#FED7AA"/><text x="300" y="140" text-anchor="middle">KYC → Bank A</text>
     <rect x="200" y="160" width="200" height="32" rx="6" fill="#FDBA74"/><text x="300" y="180" text-anchor="middle">KYC → Bank B</text>
     <rect x="200" y="200" width="200" height="32" rx="6" fill="#FB923C"/><text x="300" y="220" text-anchor="middle">KYC → EMI</text>
     <rect x="200" y="240" width="200" height="32" rx="6" fill="#F97316"/><text x="300" y="260" text-anchor="middle">KYC → PSP</text>
   </g>
-  <text x="230" y="310" font-family="DM Sans,sans-serif" font-size="12" fill="#DC2626" font-weight="700">Same person. Four times.</text>
-  <text x="230" y="330" font-family="DM Sans,sans-serif" font-size="11" fill="#9A3412">Forms • waiting • inconsistent data</text>
+  <text x="230" y="310" font-family="DM Sans,sans-serif" font-size="17" fill="#DC2626" font-weight="700">Same person. Four times.</text>
+  <text x="230" y="330" font-family="DM Sans,sans-serif" font-size="17" fill="#9A3412">Forms • waiting • inconsistent data</text>
 
   <!-- Merchant side -->
   <rect x="470" y="80" width="400" height="300" rx="14" fill="#fff" stroke="#FDBA74" stroke-width="2"/>
-  <text x="490" y="110" font-family="DM Sans,sans-serif" font-size="14" font-weight="700" fill="#9A3412">MERCHANT JOURNEY</text>
+  <text x="490" y="110" font-family="DM Sans,sans-serif" font-size="17" font-weight="700" fill="#9A3412">MERCHANT JOURNEY</text>
   <rect x="490" y="130" width="110" height="40" rx="8" fill="#DC2626"/>
-  <text x="545" y="155" text-anchor="middle" fill="#fff" font-size="12" font-weight="700" font-family="DM Sans,sans-serif">Merchant</text>
-  <g font-family="DM Sans,sans-serif" font-size="11" fill="#7C2D12">
+  <text x="545" y="155" text-anchor="middle" fill="#fff" font-size="17" font-weight="700" font-family="DM Sans,sans-serif">Merchant</text>
+  <g font-family="DM Sans,sans-serif" font-size="17" fill="#7C2D12">
     <rect x="620" y="100" width="220" height="28" rx="6" fill="#FECACA"/><text x="730" y="118" text-anchor="middle">Onboard → Bank</text>
     <rect x="620" y="136" width="220" height="28" rx="6" fill="#FCA5A5"/><text x="730" y="154" text-anchor="middle">Onboard → Easypaisa*</text>
     <rect x="620" y="172" width="220" height="28" rx="6" fill="#F87171"/><text x="730" y="190" text-anchor="middle">Onboard → JazzCash*</text>
     <rect x="620" y="208" width="220" height="28" rx="6" fill="#EF4444"/><text x="730" y="226" text-anchor="middle" fill="#fff">Onboard → PSP</text>
     <rect x="620" y="244" width="220" height="28" rx="6" fill="#DC2626"/><text x="730" y="262" text-anchor="middle" fill="#fff">Onboard → Gateway</text>
   </g>
-  <text x="490" y="310" font-family="DM Sans,sans-serif" font-size="12" fill="#DC2626" font-weight="700">Same shop. Many gatekeepers.</text>
-  <text x="490" y="350" font-family="DM Sans,sans-serif" font-size="10" fill="#9A3412">*Illustrative ecosystem names — not endorsements</text>
+  <text x="490" y="310" font-family="DM Sans,sans-serif" font-size="17" fill="#DC2626" font-weight="700">Same shop. Many gatekeepers.</text>
+  <text x="490" y="350" font-family="DM Sans,sans-serif" font-size="16" fill="#9A3412">*Illustrative ecosystem names — not endorsements</text>
 </svg>

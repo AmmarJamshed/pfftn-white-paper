@@ -10,6 +10,8 @@ The trust layer could support AML/CFT by linking customer identity, merchant ide
 Blockchain does **not** automatically detect money laundering. Analytics and humans detect; the ledger strengthens provenance and integrity. [[8]](99-references.md#8) [[9]](99-references.md#9)
 {% endhint %}
 
-![Figure 14 — AML/CFT support flow](../assets/fig-14-aml-flow.svg)
+<p align="center">
+  <img src="../assets/fig-14-aml-flow.svg" alt="Figure 14 — AML/CFT support flow" width="100%">
+</p>
 
 *Figure 14 — AML/CFT support flow*

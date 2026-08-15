@@ -1,27 +1,27 @@
-<svg viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Identity to Payment chain">
+<svg width="2250" height="700" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Identity to Payment chain">
   <defs>
     <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#00B4D8"/><stop offset="100%" stop-color="#1A6FBF"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="160" fill="#0B1F3A" rx="16"/>
-  <g font-family="DM Sans,sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">
-    <rect x="20" y="50" width="140" height="60" rx="12" fill="url(#g1)"/>
-    <text x="90" y="85">IDENTITY</text>
-    <text x="175" y="85" fill="#00B4D8" font-size="22">→</text>
-    <rect x="195" y="50" width="120" height="60" rx="12" fill="#1A6FBF"/>
-    <text x="255" y="85">TRUST</text>
-    <text x="330" y="85" fill="#00B4D8" font-size="22">→</text>
-    <rect x="350" y="50" width="130" height="60" rx="12" fill="#5B4B8A"/>
-    <text x="415" y="85">BANKING</text>
-    <text x="495" y="85" fill="#00B4D8" font-size="22">→</text>
-    <rect x="515" y="50" width="140" height="60" rx="12" fill="#0D9488"/>
-    <text x="585" y="85">MERCHANT</text>
-    <text x="670" y="85" fill="#00B4D8" font-size="22">→</text>
-    <rect x="690" y="50" width="180" height="60" rx="12" fill="#059669"/>
-    <text x="780" y="85">PAYMENT</text>
+  <rect width="900" height="280" fill="#0B1F3A" rx="20"/>
+  <text x="450" y="42" text-anchor="middle" fill="#00B4D8" font-family="DM Sans,Segoe UI,sans-serif" font-size="18" font-weight="700" letter-spacing="2">THE PROPOSED TRUST JOURNEY</text>
+  <g font-family="DM Sans,Segoe UI,sans-serif" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">
+    <rect x="30" y="80" width="140" height="100" rx="16" fill="url(#g1)"/>
+    <text x="100" y="138">IDENTITY</text>
+    <text x="185" y="138" fill="#00B4D8" font-size="28">→</text>
+    <rect x="210" y="80" width="120" height="100" rx="16" fill="#1A6FBF"/>
+    <text x="270" y="138">TRUST</text>
+    <text x="350" y="138" fill="#00B4D8" font-size="28">→</text>
+    <rect x="375" y="80" width="130" height="100" rx="16" fill="#5B4B8A"/>
+    <text x="440" y="138">BANKING</text>
+    <text x="525" y="138" fill="#00B4D8" font-size="28">→</text>
+    <rect x="550" y="80" width="140" height="100" rx="16" fill="#0D9488"/>
+    <text x="620" y="138">MERCHANT</text>
+    <text x="710" y="138" fill="#00B4D8" font-size="28">→</text>
+    <rect x="735" y="80" width="135" height="100" rx="16" fill="#059669"/>
+    <text x="802" y="138">PAYMENT</text>
   </g>
-  <text x="450" y="140" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="DM Sans,sans-serif">
-    The proposed trust journey — not a replacement for banks or Raast
-  </text>
+  <text x="450" y="230" text-anchor="middle" fill="#E2E8F0" font-size="18" font-family="DM Sans,Segoe UI,sans-serif">Not a replacement for banks or Raast — a shared layer for verifiable trust</text>
+  <text x="450" y="258" text-anchor="middle" fill="#94A3B8" font-size="17" font-family="DM Sans,Segoe UI,sans-serif">PROPOSED ARCHITECTURE · conceptual</text>
 </svg>

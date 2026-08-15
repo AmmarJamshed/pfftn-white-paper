@@ -1,21 +1,21 @@
-<svg viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="2250" height="950" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" role="img">
   <rect width="900" height="380" fill="#F0F9FF" rx="12"/>
   <text x="30" y="36" font-family="Fraunces,Georgia,serif" font-size="20" fill="#0B1F3A" font-weight="700">Pakistan Already Has the Building Blocks</text>
-  <text x="30" y="58" font-family="DM Sans,sans-serif" font-size="12" fill="#1A6FBF">CURRENT STATE — existing infrastructure (not PFFTN)</text>
+  <text x="30" y="58" font-family="DM Sans,sans-serif" font-size="17" fill="#1A6FBF">CURRENT STATE — existing infrastructure (not PFFTN)</text>
 
-  <g font-family="DM Sans,sans-serif" font-weight="700" font-size="12" text-anchor="middle">
-    <rect x="30" y="80" width="160" height="90" rx="14" fill="#1A6FBF"/><text x="110" y="115" fill="#fff">PUZZLE 1</text><text x="110" y="138" fill="#E0F2FE" font-weight="500" font-size="11">Shared e-KYC</text>
-    <rect x="205" y="80" width="160" height="90" rx="14" fill="#00B4D8"/><text x="285" y="115" fill="#fff">PUZZLE 2</text><text x="285" y="138" fill="#E0F2FE" font-weight="500" font-size="11">Raast</text>
-    <rect x="380" y="80" width="160" height="90" rx="14" fill="#0D9488"/><text x="460" y="115" fill="#fff">PUZZLE 3</text><text x="460" y="138" fill="#E0F2FE" font-weight="500" font-size="11">Raast P2M</text>
-    <rect x="555" y="80" width="160" height="90" rx="14" fill="#5B4B8A"/><text x="635" y="115" fill="#fff">PUZZLE 4</text><text x="635" y="138" fill="#E0F2FE" font-weight="500" font-size="11">Digital Banking</text>
-    <rect x="730" y="80" width="140" height="90" rx="14" fill="#059669"/><text x="800" y="115" fill="#fff">PUZZLE 5</text><text x="800" y="138" fill="#E0F2FE" font-weight="500" font-size="11">EMIs / PSPs</text>
+  <g font-family="DM Sans,sans-serif" font-weight="700" font-size="17" text-anchor="middle">
+    <rect x="30" y="80" width="160" height="90" rx="14" fill="#1A6FBF"/><text x="110" y="115" fill="#fff">PUZZLE 1</text><text x="110" y="138" fill="#E0F2FE" font-weight="500" font-size="17">Shared e-KYC</text>
+    <rect x="205" y="80" width="160" height="90" rx="14" fill="#00B4D8"/><text x="285" y="115" fill="#fff">PUZZLE 2</text><text x="285" y="138" fill="#E0F2FE" font-weight="500" font-size="17">Raast</text>
+    <rect x="380" y="80" width="160" height="90" rx="14" fill="#0D9488"/><text x="460" y="115" fill="#fff">PUZZLE 3</text><text x="460" y="138" fill="#E0F2FE" font-weight="500" font-size="17">Raast P2M</text>
+    <rect x="555" y="80" width="160" height="90" rx="14" fill="#5B4B8A"/><text x="635" y="115" fill="#fff">PUZZLE 4</text><text x="635" y="138" fill="#E0F2FE" font-weight="500" font-size="17">Digital Banking</text>
+    <rect x="730" y="80" width="140" height="90" rx="14" fill="#059669"/><text x="800" y="115" fill="#fff">PUZZLE 5</text><text x="800" y="138" fill="#E0F2FE" font-weight="500" font-size="17">EMIs / PSPs</text>
   </g>
 
   <path d="M450 185 L450 220" stroke="#94A3B8" stroke-width="3" marker-end="url(#arr)"/>
   <defs><marker id="arr" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#94A3B8"/></marker></defs>
 
   <rect x="180" y="230" width="540" height="110" rx="16" fill="#FEF3C7" stroke="#F59E0B" stroke-width="3" stroke-dasharray="8 4"/>
-  <text x="450" y="275" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="14" font-weight="700" fill="#92400E">MISSING LAYER (PROPOSED)</text>
+  <text x="450" y="275" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="17" font-weight="700" fill="#92400E">MISSING LAYER (PROPOSED)</text>
   <text x="450" y="305" text-anchor="middle" font-family="Fraunces,Georgia,serif" font-size="22" fill="#0B1F3A">FEDERATED FINANCIAL TRUST</text>
-  <text x="450" y="325" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="11" fill="#78716C">Conceptual — does not exist today as PFFTN</text>
+  <text x="450" y="325" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="17" fill="#78716C">Conceptual — does not exist today as PFFTN</text>
 </svg>

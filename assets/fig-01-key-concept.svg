@@ -1,15 +1,21 @@
-<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" role="img">
-  <rect width="900" height="200" fill="#F8FAFC" rx="12"/>
-  <text x="450" y="30" text-anchor="middle" font-family="Fraunces,Georgia,serif" font-size="16" fill="#0B1F3A" font-weight="700">The Key Idea — in one picture</text>
-  <g font-family="DM Sans,sans-serif" font-size="11" text-anchor="middle" fill="#fff">
-    <rect x="40" y="55" width="110" height="50" rx="10" fill="#FBBF24"/><text x="95" y="85" fill="#78350F" font-weight="700">CUSTOMER</text>
-    <text x="165" y="85" fill="#00B4D8" font-size="16">↓</text>
-    <rect x="40" y="115" width="110" height="36" rx="8" fill="#1A6FBF"/><text x="95" y="138">DIGITAL ID</text>
-    <rect x="170" y="85" width="120" height="50" rx="10" fill="#00B4D8"/><text x="230" y="115">VERIFIABLE</text><text x="230" y="128" font-size="9">CREDENTIALS</text>
-    <rect x="310" y="85" width="100" height="50" rx="10" fill="#0D9488"/><text x="360" y="115">CONSENT</text>
-    <rect x="430" y="70" width="160" height="80" rx="12" fill="#0B1F3A" stroke="#00B4D8" stroke-width="2"/><text x="510" y="105" fill="#00B4D8" font-weight="700">FINANCIAL</text><text x="510" y="125" fill="#00B4D8" font-weight="700">TRUST NETWORK</text>
-    <rect x="610" y="85" width="130" height="50" rx="10" fill="#5B4B8A"/><text x="675" y="115">BANK / EMI</text>
-    <rect x="760" y="85" width="110" height="50" rx="10" fill="#059669"/><text x="815" y="105">ACCOUNT /</text><text x="815" y="120" font-size="9">WALLET / MCHT</text>
+<svg width="2250" height="750" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" role="img">
+  <rect width="900" height="300" fill="#F8FAFC" rx="16"/>
+  <text x="450" y="36" text-anchor="middle" font-family="Fraunces,Georgia,serif" font-size="22" fill="#0B1F3A" font-weight="700">The Key Idea — in one picture</text>
+  <g font-family="DM Sans,Segoe UI,sans-serif" font-size="17" text-anchor="middle" fill="#fff" font-weight="700">
+    <rect x="20" y="70" width="120" height="90" rx="14" fill="#FBBF24"/><text x="80" y="122" fill="#78350F">CUSTOMER</text>
+    <text x="155" y="120" fill="#00B4D8" font-size="26">→</text>
+    <rect x="175" y="70" width="120" height="90" rx="14" fill="#1A6FBF"/><text x="235" y="112">DIGITAL</text><text x="235" y="134">IDENTITY</text>
+    <text x="310" y="120" fill="#00B4D8" font-size="26">→</text>
+    <rect x="330" y="70" width="130" height="90" rx="14" fill="#00B4D8"/><text x="395" y="112">VERIFIABLE</text><text x="395" y="134">CREDENTIALS</text>
+    <text x="475" y="120" fill="#00B4D8" font-size="26">→</text>
+    <rect x="495" y="70" width="100" height="90" rx="14" fill="#0D9488"/><text x="545" y="122">CONSENT</text>
+    <text x="610" y="120" fill="#00B4D8" font-size="26">→</text>
+    <rect x="630" y="55" width="150" height="120" rx="16" fill="#0B1F3A" stroke="#00B4D8" stroke-width="3"/><text x="705" y="105" fill="#00B4D8">FINANCIAL</text><text x="705" y="128" fill="#00B4D8">TRUST</text><text x="705" y="151" fill="#00B4D8">NETWORK</text>
   </g>
-  <text x="450" y="180" text-anchor="middle" fill="#64748B" font-family="DM Sans,sans-serif" font-size="12">Prove once → authorized institutions verify the proof</text>
+  <g font-family="DM Sans,Segoe UI,sans-serif" font-size="17" text-anchor="middle" fill="#fff" font-weight="700">
+    <text x="450" y="210" fill="#64748B" font-size="18">↓</text>
+    <rect x="220" y="230" width="200" height="50" rx="12" fill="#5B4B8A"/><text x="320" y="261">BANK / EMI / PSP</text>
+    <text x="450" y="261" fill="#00B4D8" font-size="22">→</text>
+    <rect x="480" y="230" width="220" height="50" rx="12" fill="#059669"/><text x="590" y="261">ACCOUNT / WALLET / MCHT</text>
+  </g>
 </svg>

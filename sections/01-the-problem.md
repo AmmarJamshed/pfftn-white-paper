@@ -23,6 +23,8 @@ Pakistan’s ecosystem includes banks, microfinance banks, EMIs, PSOs and PSPs. 
 
 Duplication creates inconsistent data, higher compliance cost, slower inclusion, and stale information.
 
-![Figure 2 — The banking problem today](../assets/fig-02-problem-today.svg)
+<p align="center">
+  <img src="../assets/fig-02-problem-today.svg" alt="Figure 2 — The banking problem today" width="100%">
+</p>
 
 *Figure 2 — The banking problem today*

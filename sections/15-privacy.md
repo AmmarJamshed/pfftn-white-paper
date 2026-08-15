@@ -12,6 +12,8 @@ Toolkit: permissioned DLT, zero-knowledge proofs where appropriate, selective di
 If a teenager can screenshot it from a public explorer, it should never have been personal data.
 {% endhint %}
 
-![Figure 17 — Privacy architecture](../assets/fig-17-privacy.svg)
+<p align="center">
+  <img src="../assets/fig-17-privacy.svg" alt="Figure 17 — Privacy architecture" width="100%">
+</p>
 
 *Figure 17 — Privacy architecture*

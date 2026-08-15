@@ -1,21 +1,23 @@
-<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img">
-  <rect width="900" height="220" fill="#0B1F3A" rx="12"/>
-  <text x="450" y="30" text-anchor="middle" fill="#00B4D8" font-family="DM Sans,sans-serif" font-size="12" font-weight="700">CONCEPTUAL 5-PHASE ROADMAP · subject to regulatory approval</text>
-  <g font-family="DM Sans,sans-serif" font-size="10" text-anchor="middle">
-    <circle cx="90" cy="100" r="36" fill="#1A6FBF"/><text x="90" y="97" fill="#fff" font-weight="700" font-size="14">1</text><text x="90" y="112" fill="#BFDBFE" font-size="8">Standards</text>
-    <line x1="126" y1="100" x2="174" y2="100" stroke="#00B4D8" stroke-width="3"/>
-    <circle cx="210" cy="100" r="36" fill="#00B4D8"/><text x="210" y="97" fill="#fff" font-weight="700" font-size="14">2</text><text x="210" y="112" fill="#E0F2FE" font-size="8">MFI Pilot</text>
-    <line x1="246" y1="100" x2="294" y2="100" stroke="#00B4D8" stroke-width="3"/>
-    <circle cx="330" cy="100" r="36" fill="#0D9488"/><text x="330" y="97" fill="#fff" font-weight="700" font-size="14">3</text><text x="330" y="112" fill="#CCFBF1" font-size="8">Integrate</text>
-    <line x1="366" y1="100" x2="414" y2="100" stroke="#00B4D8" stroke-width="3"/>
-    <circle cx="450" cy="100" r="36" fill="#5B4B8A"/><text x="450" y="97" fill="#fff" font-weight="700" font-size="14">4</text><text x="450" y="112" fill="#EDE9FE" font-size="8">Raast P2M</text>
-    <line x1="486" y1="100" x2="534" y2="100" stroke="#00B4D8" stroke-width="3"/>
-    <circle cx="570" cy="100" r="36" fill="#059669"/><text x="570" y="97" fill="#fff" font-weight="700" font-size="14">5</text><text x="570" y="112" fill="#D1FAE5" font-size="8">National</text>
+<svg width="1800" height="720" viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg" role="img">
+  <rect width="900" height="360" fill="#0B1F3A" rx="16"/>
+  <text x="450" y="40" text-anchor="middle" fill="#00B4D8" font-family="DM Sans,Segoe UI,sans-serif" font-size="18" font-weight="700">CONCEPTUAL 5-PHASE ROADMAP · subject to regulatory approval</text>
+  <g font-family="DM Sans,Segoe UI,sans-serif" text-anchor="middle">
+    <circle cx="90" cy="140" r="48" fill="#1A6FBF"/><text x="90" y="135" fill="#fff" font-weight="700" font-size="28">1</text><text x="90" y="158" fill="#BFDBFE" font-size="14">Standards</text>
+    <line x1="138" y1="140" x2="182" y2="140" stroke="#00B4D8" stroke-width="4"/>
+    <circle cx="230" cy="140" r="48" fill="#00B4D8"/><text x="230" y="135" fill="#fff" font-weight="700" font-size="28">2</text><text x="230" y="158" fill="#E0F2FE" font-size="14">MFI Pilot</text>
+    <line x1="278" y1="140" x2="322" y2="140" stroke="#00B4D8" stroke-width="4"/>
+    <circle cx="370" cy="140" r="48" fill="#0D9488"/><text x="370" y="135" fill="#fff" font-weight="700" font-size="28">3</text><text x="370" y="158" fill="#CCFBF1" font-size="14">Integrate</text>
+    <line x1="418" y1="140" x2="462" y2="140" stroke="#00B4D8" stroke-width="4"/>
+    <circle cx="510" cy="140" r="48" fill="#5B4B8A"/><text x="510" y="135" fill="#fff" font-weight="700" font-size="28">4</text><text x="510" y="158" fill="#EDE9FE" font-size="14">Raast P2M</text>
+    <line x1="558" y1="140" x2="602" y2="140" stroke="#00B4D8" stroke-width="4"/>
+    <circle cx="650" cy="140" r="48" fill="#059669"/><text x="650" y="135" fill="#fff" font-weight="700" font-size="28">5</text><text x="650" y="158" fill="#D1FAE5" font-size="14">National</text>
   </g>
-  <text x="90" y="170" text-anchor="middle" fill="#94A3B8" font-family="DM Sans,sans-serif" font-size="9">Credential standards</text>
-  <text x="210" y="170" text-anchor="middle" fill="#94A3B8" font-family="DM Sans,sans-serif" font-size="9">Merchant identity pilot</text>
-  <text x="330" y="170" text-anchor="middle" fill="#94A3B8" font-family="DM Sans,sans-serif" font-size="9">Banks / EMI / PSP</text>
-  <text x="450" y="170" text-anchor="middle" fill="#94A3B8" font-family="DM Sans,sans-serif" font-size="9">Payment trust link</text>
-  <text x="570" y="170" text-anchor="middle" fill="#94A3B8" font-family="DM Sans,sans-serif" font-size="9">Federated network</text>
-  <text x="450" y="200" text-anchor="middle" fill="#64748B" font-family="DM Sans,sans-serif" font-size="10">Not a committed SBP programme — independent conceptual sequence</text>
+  <g font-family="DM Sans,Segoe UI,sans-serif" font-size="15" fill="#CBD5E1" text-anchor="middle">
+    <text x="90" y="230">Credential standards</text>
+    <text x="230" y="230">Merchant identity pilot</text>
+    <text x="370" y="230">Banks / EMI / PSP</text>
+    <text x="510" y="230">Payment trust link</text>
+    <text x="650" y="230">Federated network</text>
+  </g>
+  <text x="450" y="300" text-anchor="middle" fill="#94A3B8" font-family="DM Sans,Segoe UI,sans-serif" font-size="14">Not a committed SBP programme — independent conceptual sequence</text>
 </svg>

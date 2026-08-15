@@ -8,6 +8,8 @@ Threats include key compromise, credential theft, node compromise, insider threa
 
 **Decentralization does not automatically equal security.**
 
-![Figure 18 — Security threat surface](../assets/fig-18-security.svg)
+<p align="center">
+  <img src="../assets/fig-18-security.svg" alt="Figure 18 — Security threat surface" width="100%">
+</p>
 
 *Figure 18 — Security threat surface*

@@ -14,7 +14,9 @@
 
 > Pakistan does not need to decentralize banks themselves. It can decentralize the **trust layer** connecting banks, customers, merchants, EMIs, PSPs, PSOs and regulators.
 
-![Figure 0 — Identity → Trust → Banking → Merchant → Payment](../assets/fig-00-identity-trust-payment.svg)
+<p align="center">
+  <img src="../assets/fig-00-identity-trust-payment.svg" alt="Figure 0 — Identity → Trust → Banking → Merchant → Payment" width="100%">
+</p>
 
 *Figure 0 — Identity → Trust → Banking → Merchant → Payment*
 
@@ -27,7 +29,9 @@ The **Pakistan Federated Financial Trust Network (PFFTN)** is a **proposed** per
 * Keeps **sensitive personal data off-chain**
 * Extends Pakistan’s existing **Shared e-KYC** and **Raast / Raast P2M** infrastructure — it does **not** replace banks or Raast
 
-![Figure 1 — Key concept: prove once, verify the proof](../assets/fig-01-key-concept.svg)
+<p align="center">
+  <img src="../assets/fig-01-key-concept.svg" alt="Figure 1 — Key concept: prove once, verify the proof" width="100%">
+</p>
 
 *Figure 1 — Key concept: prove once, verify the proof*
 

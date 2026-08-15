@@ -16,6 +16,8 @@
 
 **Design rule:** store sensitive data **off-chain**. Store proofs, attestations, hashes, permissions and state transitions **on-chain**.
 
-![Figure 4 — Proposed PFFTN layered architecture](../assets/fig-04-pfftn-architecture.svg)
+<p align="center">
+  <img src="../assets/fig-04-pfftn-architecture.svg" alt="Figure 4 — Proposed PFFTN layered architecture" width="100%">
+</p>
 
 *Figure 4 — Proposed PFFTN layered architecture*

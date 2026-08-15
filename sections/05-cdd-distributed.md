@@ -18,6 +18,8 @@ The ledger would record: **who** verified **what**, **when**, under **which auth
 **In simple terms:** CDD becomes a team sport with signed scorecards — not one bank reinventing the checklist every time.
 {% endhint %}
 
-![Figure 6 — CDD as a network of trust](../assets/fig-06-cdd-network.svg)
+<p align="center">
+  <img src="../assets/fig-06-cdd-network.svg" alt="Figure 6 — CDD as a network of trust" width="100%">
+</p>
 
 *Figure 6 — CDD as a network of trust*

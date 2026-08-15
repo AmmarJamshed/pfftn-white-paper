@@ -17,6 +17,8 @@ Pakistan’s digital finance stack is growing. The costly part is not always the
 **In simple terms:** every bank checking you separately → you prove who you are once → authorized institutions verify the proof.
 {% endhint %}
 
-![The proposed trust journey](../assets/fig-00-identity-trust-payment.svg)
+<p align="center">
+  <img src="../assets/fig-00-identity-trust-payment.svg" alt="The proposed trust journey" width="100%">
+</p>
 
 *The proposed trust journey*

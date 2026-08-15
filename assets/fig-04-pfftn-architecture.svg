@@ -1,28 +1,28 @@
-<svg viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="2250" height="1300" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg" role="img">
   <rect width="900" height="520" fill="#F8FAFC" rx="12"/>
   <text x="450" y="28" text-anchor="middle" font-family="Fraunces,Georgia,serif" font-size="18" fill="#0B1F3A" font-weight="700">PFFTN Architecture (Conceptual / Proposed)</text>
 
   <rect x="40" y="48" width="820" height="48" rx="10" fill="#0B1F3A"/>
-  <text x="450" y="78" text-anchor="middle" fill="#fff" font-family="DM Sans,sans-serif" font-size="14" font-weight="700">SBP / REGULATORY OVERSIGHT</text>
+  <text x="450" y="78" text-anchor="middle" fill="#fff" font-family="DM Sans,sans-serif" font-size="17" font-weight="700">SBP / REGULATORY OVERSIGHT</text>
 
   <rect x="40" y="110" width="820" height="70" rx="10" fill="#1A6FBF"/>
-  <text x="450" y="140" text-anchor="middle" fill="#fff" font-family="DM Sans,sans-serif" font-size="14" font-weight="700">PERMISSIONED FINANCIAL TRUST NETWORK</text>
-  <text x="450" y="162" text-anchor="middle" fill="#BFDBFE" font-family="DM Sans,sans-serif" font-size="11">Banks · EMIs · PSPs · PSOs · MFBs · Authorized Verifiers</text>
+  <text x="450" y="140" text-anchor="middle" fill="#fff" font-family="DM Sans,sans-serif" font-size="17" font-weight="700">PERMISSIONED FINANCIAL TRUST NETWORK</text>
+  <text x="450" y="162" text-anchor="middle" fill="#BFDBFE" font-family="DM Sans,sans-serif" font-size="17">Banks · EMIs · PSPs · PSOs · MFBs · Authorized Verifiers</text>
 
   <rect x="40" y="196" width="820" height="100" rx="10" fill="#5B4B8A"/>
-  <text x="450" y="222" text-anchor="middle" fill="#fff" font-family="DM Sans,sans-serif" font-size="13" font-weight="700">IDENTITY &amp; COMPLIANCE LAYER</text>
-  <g font-family="DM Sans,sans-serif" font-size="11" fill="#EDE9FE" text-anchor="middle">
+  <text x="450" y="222" text-anchor="middle" fill="#fff" font-family="DM Sans,sans-serif" font-size="17" font-weight="700">IDENTITY &amp; COMPLIANCE LAYER</text>
+  <g font-family="DM Sans,sans-serif" font-size="17" fill="#EDE9FE" text-anchor="middle">
     <text x="120" y="255">Digital ID</text><text x="250" y="255">KYC</text><text x="360" y="255">CDD</text>
     <text x="470" y="255">EDD</text><text x="590" y="255">Risk</text><text x="740" y="255">Merchant Verify</text>
   </g>
 
   <rect x="40" y="312" width="820" height="100" rx="10" fill="#0D9488"/>
-  <text x="450" y="338" text-anchor="middle" fill="#fff" font-family="DM Sans,sans-serif" font-size="13" font-weight="700">FINANCIAL SERVICES</text>
-  <g font-family="DM Sans,sans-serif" font-size="11" fill="#CCFBF1" text-anchor="middle">
+  <text x="450" y="338" text-anchor="middle" fill="#fff" font-family="DM Sans,sans-serif" font-size="17" font-weight="700">FINANCIAL SERVICES</text>
+  <g font-family="DM Sans,sans-serif" font-size="17" fill="#CCFBF1" text-anchor="middle">
     <text x="110" y="370">Accounts</text><text x="240" y="370">Wallets</text><text x="370" y="370">Merchants</text>
     <text x="500" y="370">Lending</text><text x="630" y="370">Payments</text><text x="770" y="370">Remittances</text>
   </g>
 
   <rect x="40" y="428" width="820" height="60" rx="10" fill="#059669"/>
-  <text x="450" y="464" text-anchor="middle" fill="#fff" font-family="DM Sans,sans-serif" font-size="14" font-weight="700">RAAST / PAYMENT RAILS (existing — not replaced)</text>
+  <text x="450" y="464" text-anchor="middle" fill="#fff" font-family="DM Sans,sans-serif" font-size="17" font-weight="700">RAAST / PAYMENT RAILS (existing — not replaced)</text>
 </svg>

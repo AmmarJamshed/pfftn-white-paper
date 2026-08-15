@@ -6,7 +6,9 @@
 
 The blockchain would **not** approve customers autonomously. Regulated institutions remain responsible for onboarding decisions. The network provides trusted, verifiable evidence.
 
-![Figure 5 — Account opening: current vs proposed](../assets/fig-05-account-opening.svg)
+<p align="center">
+  <img src="../assets/fig-05-account-opening.svg" alt="Figure 5 — Account opening: current vs proposed" width="100%">
+</p>
 
 *Figure 5 — Account opening: current vs proposed*
 

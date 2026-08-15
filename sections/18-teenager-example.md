@@ -6,7 +6,9 @@
 
 Ali is 18 and wants his first bank account.
 
-![Figure 19 — Ali’s journey](../assets/fig-19-ali-example.svg)
+<p align="center">
+  <img src="../assets/fig-19-ali-example.svg" alt="Figure 19 — Ali’s journey" width="100%">
+</p>
 
 *Figure 19 — Ali’s journey*
 

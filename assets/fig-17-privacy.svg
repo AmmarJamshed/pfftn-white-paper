@@ -1,0 +1,16 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" role="img">
+  <rect width="900" height="300" fill="#042F2E" rx="12"/>
+  <text x="450" y="36" text-anchor="middle" fill="#5EEAD4" font-family="DM Sans,sans-serif" font-size="14" font-weight="700">PRIVACY ARCHITECTURE — "Blockchain ≠ public personal data"</text>
+  <g font-family="DM Sans,sans-serif" font-size="11" text-anchor="middle" fill="#fff">
+    <rect x="30" y="70" width="160" height="70" rx="10" fill="#0D9488"/><text x="110" y="100">Permissioned</text><text x="110" y="118">DLT</text>
+    <rect x="210" y="70" width="160" height="70" rx="10" fill="#14B8A6"/><text x="290" y="100">Zero-Knowledge</text><text x="290" y="118">Proofs*</text>
+    <rect x="390" y="70" width="160" height="70" rx="10" fill="#2DD4BF"/><text x="470" y="100" fill="#134E4A">Selective</text><text x="470" y="118" fill="#134E4A">Disclosure</text>
+    <rect x="570" y="70" width="160" height="70" rx="10" fill="#1A6FBF"/><text x="650" y="100">Hashing &amp;</text><text x="650" y="118">Encryption</text>
+    <rect x="750" y="70" width="120" height="70" rx="10" fill="#5B4B8A"/><text x="810" y="100">Off-chain</text><text x="810" y="118">Storage</text>
+    <rect x="100" y="170" width="160" height="60" rx="10" fill="#065F46"/><text x="180" y="205">Consent Mgmt</text>
+    <rect x="280" y="170" width="160" height="60" rx="10" fill="#0F766E"/><text x="360" y="205">Revocation</text>
+    <rect x="460" y="170" width="160" height="60" rx="10" fill="#115E59"/><text x="540" y="205">RBAC / Roles</text>
+    <rect x="640" y="170" width="160" height="60" rx="10" fill="#134E4A"/><text x="720" y="205">Minimization</text>
+  </g>
+  <text x="450" y="270" text-anchor="middle" fill="#99F6E4" font-family="DM Sans,sans-serif" font-size="11">*Where appropriate and technically mature for the use case</text>
+</svg>

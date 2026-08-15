@@ -1,0 +1,21 @@
+<svg viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg" role="img">
+  <rect width="900" height="320" fill="#F8FAFC" rx="12"/>
+  <text x="225" y="36" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="14" font-weight="700" fill="#B91C1C">TODAY</text>
+  <text x="675" y="36" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="14" font-weight="700" fill="#047857">PROPOSED: Merchant Portability</text>
+  <g font-family="DM Sans,sans-serif" font-size="11" text-anchor="middle">
+    <rect x="40" y="60" width="370" height="230" rx="12" fill="#FEF2F2"/>
+    <rect x="150" y="90" width="150" height="36" rx="8" fill="#DC2626"/><text x="225" y="113" fill="#fff" font-weight="700">Merchant</text>
+    <rect x="70" y="160" width="100" height="50" rx="8" fill="#F87171"/><text x="120" y="190" fill="#fff">Bank A</text>
+    <rect x="185" y="160" width="100" height="50" rx="8" fill="#EF4444"/><text x="235" y="190" fill="#fff">EMI</text>
+    <rect x="300" y="160" width="100" height="50" rx="8" fill="#B91C1C"/><text x="350" y="190" fill="#fff">PSP</text>
+    <text x="225" y="250" fill="#9A3412">Separate onboarding × 3</text>
+
+    <rect x="490" y="60" width="370" height="230" rx="12" fill="#ECFDF5"/>
+    <rect x="600" y="85" width="150" height="32" rx="8" fill="#0D9488"/><text x="675" y="106" fill="#fff" font-weight="700">Merchant</text>
+    <rect x="560" y="130" width="230" height="36" rx="8" fill="#0B1F3A"/><text x="675" y="153" fill="#00B4D8" font-weight="700">Merchant Financial Identity</text>
+    <rect x="560" y="178" width="230" height="28" rx="6" fill="#1A6FBF"/><text x="675" y="197" fill="#fff">Permissioned Trust Network</text>
+    <rect x="520" y="225" width="90" height="36" rx="6" fill="#059669"/><text x="565" y="248" fill="#fff">Bank</text>
+    <rect x="630" y="225" width="90" height="36" rx="6" fill="#0D9488"/><text x="675" y="248" fill="#fff">EMI</text>
+    <rect x="740" y="225" width="90" height="36" rx="6" fill="#14B8A6"/><text x="785" y="248" fill="#fff">PSP</text>
+  </g>
+</svg>

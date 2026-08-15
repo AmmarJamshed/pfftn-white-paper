@@ -1,0 +1,32 @@
+# Summary
+
+* [Cover](README.md)
+
+## White Paper
+
+* [Executive Summary](sections/00-executive-summary.md)
+* [1. The Problem](sections/01-the-problem.md)
+* [2. Existing Pakistan Foundation](sections/02-existing-foundation.md)
+* [3. The New Architecture (PFFTN)](sections/03-new-architecture.md)
+* [4. Account Opening](sections/04-account-opening.md)
+* [5. CDD as Distributed Validation](sections/05-cdd-distributed.md)
+* [6. EDD as Enhanced Verification](sections/06-edd.md)
+* [7. Digital Financial Identity](sections/07-digital-financial-identity.md)
+* [8. National Merchant Identity](sections/08-merchant-identity.md)
+* [9. EMI / Bank / PSP Journeys](sections/09-emi-bank-psp.md)
+* [10. Raast Integration](sections/10-raast-integration.md)
+* [11. Merchant Portability](sections/11-merchant-portability.md)
+* [12. Transaction Monitoring](sections/12-transaction-monitoring.md)
+* [13. Decentralized Banking vs Trust](sections/13-decentralized-vs-federated.md)
+* [14. Governance](sections/14-governance.md)
+* [15. Privacy](sections/15-privacy.md)
+* [16. Security](sections/16-security.md)
+* [17. Economic Benefits](sections/17-economic-benefits.md)
+* [18. A Teenager’s Example](sections/18-teenager-example.md)
+* [19. The Future](sections/19-the-future.md)
+* [20. Implementation Roadmap](sections/20-roadmap.md)
+* [Limitations and Open Questions](sections/21-limitations.md)
+* [Glossary](sections/22-glossary.md)
+* [About the Author](sections/23-about-author.md)
+* [References](sections/99-references.md)
+* [Closing](sections/100-closing.md)

@@ -1,0 +1,17 @@
+<svg viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" role="img">
+  <rect width="900" height="420" fill="#F8FAFC" rx="12"/>
+  <text x="450" y="28" text-anchor="middle" font-family="Fraunces,Georgia,serif" font-size="16" fill="#0B1F3A" font-weight="700">Illustrative Merchant Journey (not an endorsement)</text>
+  <g font-family="DM Sans,sans-serif" font-size="11" text-anchor="middle">
+    <rect x="350" y="45" width="200" height="36" rx="8" fill="#0D9488"/><text x="450" y="68" fill="#fff" font-weight="700">ABC Electronics</text>
+    <text x="450" y="100" fill="#64748B">↓ Applies to an EMI (e.g. Easypaisa*)</text>
+    <rect x="300" y="110" width="300" height="32" rx="6" fill="#1A6FBF"/><text x="450" y="131" fill="#fff">Identity + business verification</text>
+    <rect x="300" y="152" width="300" height="32" rx="6" fill="#5B4B8A"/><text x="450" y="173" fill="#fff">Merchant Financial Identity created</text>
+    <rect x="300" y="194" width="300" height="32" rx="6" fill="#0D9488"/><text x="450" y="215" fill="#fff">KYC/CDD verified · Raast P2M enabled</text>
+    <text x="450" y="250" fill="#64748B" font-weight="700">LATER — Bank account</text>
+    <rect x="80" y="265" width="220" height="70" rx="10" fill="#EEF2FF" stroke="#C7D2FE"/><text x="190" y="295" fill="#4338CA" font-weight="700">Bank requests</text><text x="190" y="315" fill="#6366F1">permitted credentials</text>
+    <rect x="340" y="265" width="220" height="70" rx="10" fill="#ECFDF5" stroke="#6EE7B7"/><text x="450" y="295" fill="#047857" font-weight="700">Merchant consent</text><text x="450" y="315" fill="#059669">Bank verifies + adds checks</text>
+    <rect x="600" y="265" width="220" height="70" rx="10" fill="#FEF3C7" stroke="#FCD34D"/><text x="710" y="295" fill="#92400E" font-weight="700">Later: another PSP</text><text x="710" y="315" fill="#B45309">Reuse trusted identity</text>
+  </g>
+  <text x="450" y="370" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="14" font-weight="700" fill="#0B1F3A">Verify once. Reuse securely.</text>
+  <text x="450" y="395" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="11" fill="#64748B">*Illustrative only. Each regulated institution retains its own regulatory obligations.</text>
+</svg>

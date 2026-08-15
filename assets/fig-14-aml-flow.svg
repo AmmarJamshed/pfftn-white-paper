@@ -1,0 +1,17 @@
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" role="img">
+  <rect width="900" height="200" fill="#1E1B4B" rx="12"/>
+  <text x="450" y="28" text-anchor="middle" fill="#A5B4FC" font-family="DM Sans,sans-serif" font-size="12" font-weight="700">AML/CFT SUPPORT FLOW (conceptual)</text>
+  <g font-family="DM Sans,sans-serif" font-size="9" text-anchor="middle" fill="#fff">
+    <rect x="15" y="55" width="80" height="50" rx="6" fill="#4F46E5"/><text x="55" y="85">Txn</text>
+    <rect x="105" y="55" width="80" height="50" rx="6" fill="#6366F1"/><text x="145" y="78">Customer</text><text x="145" y="92">ID</text>
+    <rect x="195" y="55" width="80" height="50" rx="6" fill="#818CF8"/><text x="235" y="78">Merchant</text><text x="235" y="92">ID</text>
+    <rect x="285" y="55" width="80" height="50" rx="6" fill="#A78BFA"/><text x="325" y="78">Risk</text><text x="325" y="92">profile</text>
+    <rect x="375" y="55" width="80" height="50" rx="6" fill="#C084FC"/><text x="415" y="78">Patterns</text>
+    <rect x="465" y="55" width="80" height="50" rx="6" fill="#E879F9"/><text x="505" y="78">Rules /</text><text x="505" y="92">AI</text>
+    <rect x="555" y="55" width="80" height="50" rx="6" fill="#F472B6"/><text x="595" y="85">Alert</text>
+    <rect x="645" y="55" width="90" height="50" rx="6" fill="#FB7185"/><text x="690" y="78">Investigate</text>
+    <rect x="745" y="55" width="140" height="50" rx="6" fill="#F43F5E"/><text x="815" y="78">Decision +</text><text x="815" y="92">audit record</text>
+  </g>
+  <text x="450" y="150" text-anchor="middle" fill="#C7D2FE" font-family="DM Sans,sans-serif" font-size="12">Blockchain ≠ automatic ML detection. Ledger = provenance &amp; integrity. Analytics = detection.</text>
+  <text x="450" y="175" text-anchor="middle" fill="#818CF8" font-family="DM Sans,sans-serif" font-size="11">Humans and regulated institutions remain accountable for compliance decisions.</text>
+</svg>
